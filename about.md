@@ -1,9 +1,14 @@
 ---
 layout: page
 title: "About"
-description: "This is what I do."
-header-img: "img/about-bg.jpg"
+description: "Continuing the Socratic Tradition"
 ---
+
+> "They say that Socrates is a most vile person and corrupts the youth."
+>
+> Socrates, Apology 23d
+
+
 
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe nostrum ullam eveniet pariatur voluptates odit, fuga atque ea nobis sit soluta odio, adipisci quas excepturi maxime quae totam ducimus consectetur?</p>
 
