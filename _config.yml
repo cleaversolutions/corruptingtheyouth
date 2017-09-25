@@ -29,3 +29,6 @@ collections:
     output: true
   philosophybook:
     output: true
+  ethics-news:
+    output: true
+    
