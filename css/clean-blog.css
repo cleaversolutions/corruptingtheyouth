@@ -48,9 +48,9 @@ hr.small {
 }
 .navbar-custom {
   background: white;
-  position: absolute;
+  /*position: absolute;
   top: 0;
-  left: 0;
+  left: 0;*/
   width: 100%;
   z-index: 3;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -402,4 +402,4 @@ body {
   webkit-tap-highlight-color: #0085a1;
 }
 
-.site-heading {text-shadow: 0px 0px 20px #000;}
+.site-heading {text-shadow: 1px 1px 5px #000;}

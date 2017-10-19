@@ -1,7 +1,8 @@
 ---
 title: A Day with Immigration and Customs Enforcement Officers
 description: Every day from before sunrise until late into the night, undocumented immigrants across the United States are being picked up by Immigration and Customs Enforcement officers
-layout: ethics-news
+layout: post
+tags: immigration
 ---
 
 > Every day from before sunrise until late into the night, undocumented immigrants across the United States are being picked up by Immigration and Customs Enforcement officers, the front-line soldiers in President Trump’s crackdown on illegal immigration. Increasingly, the arrests are collateral: Officers detain people they come across while looking for somebody else.

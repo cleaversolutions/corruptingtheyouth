@@ -1,6 +1,5 @@
 ---
 layout: page
-description: "Resources for Philosophy Students and Instructors"
 ---
 
 {% for post in paginator.posts %}
@@ -14,7 +13,7 @@ description: "Resources for Philosophy Students and Instructors"
         </h3>
         {% endif %}
     </a>
-    <p class="post-meta">Category: {{ post.categories | replace: '-', ' ' }}, {{ post.date | date: "%B %-d, %Y" }}</p>
+    <p class="post-meta">Category: {{ post.categories | slug | replace: '-', ' ' }}, {{ post.date | date: "%B %-d, %Y" }}</p>
 </div>
 <hr>
 {% endfor %}

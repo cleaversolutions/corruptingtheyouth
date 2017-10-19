@@ -1,8 +1,9 @@
 ---
 title: A mother fights to keep her 2-year-old on life support
-layout: ethics-news
+layout: post
 description: His parents protested, Discontinuing medical treatment, they argued, would violate their sons right to a life — and their hope that he might eventually have one.
 source: Washington Post
+tags: medical
 ---
 ### "God is telling me not to let go": A mother fights to keep her 2-year-old on life support
 

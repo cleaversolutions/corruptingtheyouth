@@ -1,8 +1,9 @@
 ---
 title: Torture After September 11
-layout: ethics-news
+layout: post
 description: His parents protested, Discontinuing medical treatment, they argued, would violate their sons right to a life — and their hope that he might eventually have one.
 source: New York Times
+tags: defense
 ---
 
 > Former prisoners subjected to “enhanced interrogation” techniques developed after Sept. 11 have filed a lawsuit — not against the C.I.A., which is protected, but against two psychologists. We discuss what has been revealed by the depositions.

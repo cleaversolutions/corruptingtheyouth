@@ -1,15 +1,15 @@
 # Site settings
 title: Corrupting the Youth
 header-img: img/death-of-socrates-original.jpg
-email: your-email@yourdomain.com
-copyright_name: Your/Project/Corporate Name
-description: "Resources for philosophy students and instructors"
+email: 
+copyright_name: Matt Cleaver
+description: "Teaching Philosophy - Thoughts & Resources"
 baseurl: ""
 url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  StartBootstrap
-email_username:  your-email@yourdomain.com
+twitter_username: mattcleaver
+github_username:  
+facebook_username:  
+email_username:  
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
