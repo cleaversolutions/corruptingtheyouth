@@ -2,21 +2,22 @@
 layout: page
 title: "About"
 description: "Continuing the Socratic Tradition"
+comment: true
 ---
 
 > "They say that Socrates is a most vile person and corrupts the youth."
 >
-> &#8212; Socrates, Plato's Apology 23d
+> &#8212; Socrates, Plato's *Apology* 23d
 
 Socrates, the founder of the western philosophic tradition, was executed on charges of "corrupting the youth." Ever since then, students and teachers of philosophy are travelers in his wake, such that Alfred North Whitehead characterized the tradition as nothing but mere "footnotes to Plato," with Socrates being the protagonist in Plato's work.
 
 As a teacher of philosophy, there is something that seems quite right about the idea of "corrupting" our students. 
 
-- Against cultural indocrination, we teach critical thinking
+- Against cultural indoctrination, we teach critical thinking
 - Opposed to conformity, we teach the value of truth
 - Rather than arguing about conclusions, we teach the questioning of premises
 - In a world concerned with marketable skills, we teach that the unexamined life is not worth living
-- Not content merely to seek out knowledge, we teach the love of wisom
+- Not content merely to seek out knowledge, we teach the love of wisdom
 
 To the uninitiated, a student of philosophy may very well appear "corrupted:" unwilling to accept "common sense," asking questions that others do not, and choosing reality over appearance. But we know that this way of thinking, these skills, are valuable for *life*, and this *includes* being valuable to potential employers and business endeavors while going beyond mere marketable skills.
 
